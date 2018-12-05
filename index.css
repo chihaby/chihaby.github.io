@@ -69,8 +69,8 @@ body {
     margin: 100px;
     margin-top: 30px;
     background-color: white;
-    height: 650px;
-    /* float: left; */
+    height: 800px;
+
 }
 
 h4 {
@@ -117,3 +117,13 @@ img {
       margin-bottom: -10px;
 
   }
+
+#about:hover { background-color: #49bbb0; }
+#portfolio:hover { background-color:#49bbb0; }
+#contact:hover { background-color: #49bbb0; }
+
+a:visited { color: rgb(26, 109, 204); }
+a:hover { color: rgb(15, 15, 15); }
+
+
+  /* add site link */
