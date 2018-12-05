@@ -3,7 +3,7 @@
 }
 
 body {
-  font-size: 20px;
+  font-size: 18px;
   line-height: 32px;
   color: #333;
   background-color: rgb(233, 238, 240);
@@ -66,10 +66,11 @@ body {
 }
 
 .bio {
-    margin: 100px;
+    margin: 80px;
     margin-top: 30px;
     background-color: white;
     height: 650px;
+    /* float: left; */
 }
 
 h4 {
@@ -98,6 +99,8 @@ p {
     background-color: rgb(94, 92, 92); 
     padding-top: 20px;
     margin-top: 0px;
+    position: sticky; 
+    left: 0 ; right: 0; bottom: 0; 
 }
 .line2 { 
     /* margin: 40px; */
@@ -109,5 +112,8 @@ img {
       transform: rotate(90deg);
       width: 150px;
       height: 150px;
+      float: left;
+      margin-right: 10px;
+      margin-bottom: -10px;
 
   }
