@@ -1,2 +1,0 @@
-# chihaby.github.io
-Portfolio
